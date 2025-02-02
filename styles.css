@@ -1,4 +1,4 @@
-/* your code here */
+/* Reset styles */
 * {
     margin: 0;
     padding: 0;
@@ -55,6 +55,7 @@ footer {
 .media-icons a {
     color: white;
     font-size: 20px;
+    text-decoration: none;
 }
 
 @media (max-width: 768px) {
